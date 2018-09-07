@@ -1,0 +1,24 @@
+.landing-heading {
+  color: #fff;
+}
+.page-header{
+  opacity: .8;
+}
+.service-icon{
+  display: inline-flex; 
+  list-style: none;
+}
+.service-icon-size {
+  font-size: 80px;
+  cursor: pointer;
+}
+input::placeholder { 
+  color: #000; 
+}
+.service-image {
+  width: 80% !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
